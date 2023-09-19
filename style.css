@@ -49,7 +49,7 @@ body{
     text-align: center;
     padding: 100px 0px;
     color: white;
-    background: black;
+    background:linear-gradient(to right,  red,blue);
     border: 2px solid white;
     font-size: 32px;
     box-sizing: border-box;
@@ -81,7 +81,7 @@ body{
 input{
     height: 50px;
     width: 100px;
-    background: yellowgreen;
+    background: linear-gradient(to right, yellow, green);
     font-size: 22px;
     cursor: pointer;
     position: absolute;
